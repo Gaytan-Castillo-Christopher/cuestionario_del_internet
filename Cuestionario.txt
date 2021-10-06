@@ -1,0 +1,4 @@
+¿Que es el internet? R=
+Describe los medios fisicos y de propagacion de ondas por la que transmite la informacion en internet:  Para poder mandar señales se parece algo asi  como el sistema nervioso del cuerpo cuando te haces daño tu cerebro le manda la señal de dolor a la parte del cuerpo dañado pero aqui en ves de ulitizar el sistema nervioso utliza el codigo binario (0,1) y asi es como funciona. 
+¿Como se organiza el internet? Hablando de las direcciones IP y los DNS :Los creadores fueron Vicent Cerf y  Bob Karhan y esto funciona por medio de señales de un lugar a otro enviando informacion.  
+Describe  el procedimiento por el cual una cancion de Spotify llega del servidor de la compañia de tu telefono :  Es que contiene miles de millones de lineas por las que viajan las señales por medio del internet. 
