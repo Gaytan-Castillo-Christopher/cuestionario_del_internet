@@ -1,5 +1,17 @@
 Alumnos: Christopher Gaytan Castillo y Márquez Lara Bruno Emilio Grupo y Grado: 4F
-¿Que es el internet? R=El internet es el medio de comunicacion mas utilizado por todo el mundo, y es un invento que lo cambio todo por que nos permite obtener mayor informacion mas rapido y detalladamente a comparacion de las bibliotecas que tenias que salir de tu casa, ir buscar el libro que te sirviera encontrar la pagina, y en cambio el internet es algo mas sencillo por que estas en tu casa prendes tu telefono entras a Google y listo ya tienes la informacion
-Describe los medios fisicos y de propagacion de ondas por la que transmite la informacion en internet:  Para poder mandar señales se parece algo asi  como el sistema nervioso del cuerpo cuando te haces daño tu cerebro le manda la señal de dolor a la parte del cuerpo dañado pero aqui en ves de ulitizar el sistema nervioso utliza el codigo binario (0,1) y asi es como funciona. 
-¿Como se organiza el internet? Hablando de las direcciones IP y los DNS :Los creadores fueron Vicent Cerf y  Bob Karhan y esto funciona por medio de señales de un lugar a otro enviando informacion.  
-Describe  el procedimiento por el cual una cancion de Spotify llega del servidor de la compañia de tu telefono :  Es que contiene miles de millones de lineas por las que viajan las señales por medio del internet. 
+¿Que es el internet? 
+R=El internet es el medio de comunicacion mas utilizado por todo el mundo, y es un invento que lo cambio todo por que nos permite obtener mayor informacion mas rapido y detalladamente a comparacion de las bibliotecas que tenias que salir de tu casa, ir buscar el libro que te sirviera encontrar la pagina, y en cambio el internet es algo mas sencillo por que estas en tu casa prendes tu telefono entras a Google y listo ya tienes la informacion
+Describe los medios fisicos y de propagacion de ondas por la que transmite la informacion en internet:  
+R=Para poder mandar señales se parece algo asi  como el sistema nervioso del cuerpo cuando te haces daño tu cerebro le manda la señal de dolor a la parte del cuerpo dañado pero aqui en ves de ulitizar el sistema nervioso utliza el codigo binario (0,1) y asi es como funciona. 
+¿Como se organiza el internet? Hablando de las direcciones IP y los DNS :
+R=Los creadores fueron Vicent Cerf y  Bob Karhan y esto funciona por medio de señales de un lugar a otro enviando informacion.  
+Describe  el procedimiento por el cual una cancion de Spotify llega del servidor de la compañia de tu telefono :  
+R=Es que contiene miles de millones de lineas por las que viajan las señales por medio del internet. 
+Describe los protocolos que existen en internet, en específico HTTP y HTML
+R=
+En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+R=
+En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
+R=
+¿Cómo funciona la búsqueda de google?
+R= 
